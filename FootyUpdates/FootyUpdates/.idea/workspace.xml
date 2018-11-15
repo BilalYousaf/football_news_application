@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <devices>
+          <device id="Nexus 5" />
+          <device id="Nexus One" />
+          <device id="Nexus 7" />
+          <device id="Nexus 6" />
+        </devices>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a051021c-a241-4e27-bb00-8526a1b0a69e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FootyUpdates" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map />
+    </option>
+    <option name="myGradleVersions">
+      <map />
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="E:\WORKING\ANDROID\AS_Projects\PROJECTS\FootyUpdates\FootyUpdates" value="4569804889989" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fourfourtwo_details.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/FourFourTwoDetailsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/FourFourTwoFunction.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Picasso.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/FourFourTwoNewsAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/LiveHttpHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/EPLHTTPHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_epl.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/epl_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/EPLActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/task_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/task_add.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/task_list_row.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/TodoFunction.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/FunctionToDoTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/AddTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ListTaskAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/TaskHome.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/NoScrollListView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/TaskDBHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/HttpHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_live_score2.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ViewHolders/MyFavViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Adapters/MyFavAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ViewHolders/BookMarkLiveViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Adapters/BoolMarkLiveAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Adapters/BookMarkLiveAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Models/LiveScoreObj.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/SharedPref/prefManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_live_score.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_book_marked_live_scores.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/LiveScoreActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Models/NewsObj.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_four_four_two.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fourfourtwolist_view.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/livescore_list.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/FourFourTwoActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ViewHolders/LiveViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ViewHolders/NewsViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/SharedPref/PrefManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Adapters/NewsListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Adapters/LiveListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Activities/BookMarkedNewsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Activities/BookMarkedLiveScoresActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Classes/TinyDB.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="VectorAssetImportPath" value="E:\WORKING\ANDROID\AS_Projects" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="04be0ce2308a1a7c" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../build.gradle" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.bilalmohammed.footyupdates.Activities" />
+      <recent name="com.example.bilalmohammed.footyupdates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.bilalmohammed.footyupdates.ViewHolders" />
+      <recent name="com.example.bilalmohammed.footyupdates.Adapters" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.bilalmohammed.footyupdates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a051021c-a241-4e27-bb00-8526a1b0a69e" name="Default" comment="" />
+      <created>1522240111246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522240111246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.61463416" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19518378" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Gradle Console" order="7" side_tool="true" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Monitor" order="8" weight="0.57508534" />
+      <window_info id="Captures" order="2" weight="0.25" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.32980332" />
+      <window_info anchor="right" x="93" y="100" width="1180" height="535" id="Documentation" order="8" type="FLOATING" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32764506" />
+      <window_info anchor="right" id="Device File Explorer" order="9" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Logcat" order="7" weight="0.7227723" />
+      <window_info anchor="right" id="Android Model" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3266129" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="4" />
+      <window_info anchor="bottom" id="Gradle Console" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.61463416" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32838285" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Preview" order="5" />
+      <window_info anchor="right" x="93" y="100" width="1180" height="535" id="Documentation" order="8" type="FLOATING" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+      <window_info anchor="right" id="Device File Explorer" order="9" side_tool="true" weight="0.32980332" />
+      <window_info id="Captures" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" order="9" weight="0.7227723" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24924472" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32838285" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ToDoActivity.java" />
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_add.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ToDoTaskActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/FunctionToDoTask.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/NoScrollListView.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/TaskDBHelper.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_epl.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-26/android/app/Activity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/TaskHome.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/EPLHTTPHandler.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-26/android/os/AsyncTask.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_add_new.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_to_do.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_to_do_task.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_home.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ListTaskAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_live_score2.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/epl_item.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/HttpHandler.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/AddTask.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-26/android/widget/SimpleAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ViewHolders/BookMarkLiveViewHolder.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Adapters/BookMarkLiveAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Models/LiveScoreObj.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_book_marked_live_scores.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/EPLActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_live_score.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_book_marked_news.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/HomeActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_four_four_two.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/task_list_row.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/livescore_list.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fourfourtwolist_view.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/LiveScoreActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/FourFourTwoNewsAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/FourFourTwoActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ViewHolders/LiveViewHolder.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/ViewHolders/NewsViewHolder.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/SharedPref/PrefManager.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Models/NewsObj.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Adapters/NewsListAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Adapters/LiveListAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Activities/BookMarkedNewsActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Activities/BookMarkedLiveScoresActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/bilalmohammed/footyupdates/Classes/TinyDB.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "40110510011",
+    "firebase_url": "https://foot-3b9a0.firebaseio.com",
+    "project_id": "foot-3b9a0",
+    "storage_bucket": "foot-3b9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40110510011:android:be7e70b3c8e5ea0f",
+        "android_client_info": {
+          "package_name": "com.example.bilalmohammed.footyupdates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40110510011-ap8db2adt49e6qojenqrqhaj563tqs0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xiCAmlwq4Lv5-KK8vuQsElxhZKxwIuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
